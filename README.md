@@ -6,6 +6,10 @@
 
 Here is how it is done
 
+```
+print ("Hello World")
+```
+
 ### Chapter 2
 
 hello
